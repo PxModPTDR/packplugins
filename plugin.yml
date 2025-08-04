@@ -1,0 +1,15 @@
+name: PackPlugins
+main: root\pxmodptdr\Main
+author: Root
+version: 1.0.0
+api: 5.0.0
+website: https://discord.gg/Jg3v9QKhw4
+permissions:
+  furnace.cmd:
+    default: op
+  heal.cmd:
+    default: op
+  feed.cmd:
+    default: op
+  repair.cmd:
+    default: op
